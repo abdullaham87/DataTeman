@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Teman</string>
+    <string name="fragment_my_friends">INI FRAGMENT TEMAN</string>
+    <string name="fragment_github">INI FRAGMENT GITHUB</string>
+    <string name="fragment_profil">INI FRAGMENT PROFIL</string>
+
+</resources>

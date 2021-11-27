@@ -1,0 +1,2 @@
+com/aam/datateman/BuildConfig.java
+ com.aam.datateman.BuildConfig
